@@ -1102,7 +1102,7 @@ picklescan==0.0.5 \
     --hash=sha256:368cf1b9a075bc1b6460ad82b694f260532b836c82f99d13846cd36e1bbe7f9a \
     --hash=sha256:57153eca04d5df5009f2cdd595aef261b8a6f27e03046a1c84f672aa6869c592
     # via -r installer/requirements.in
-pillow==9.3.0 \
+pillow==10.0.1 \
     --hash=sha256:03150abd92771742d4a8cd6f2fa6246d847dcd2e332a18d0c15cc75bf6703040 \
     --hash=sha256:073adb2ae23431d3b9bcbcff3fe698b62ed47211d0716b067385538a1b0f28b8 \
     --hash=sha256:0b07fffc13f474264c336298d1b4ce01d9c5a011415b79d4ee5527bb69ae6f65 \
