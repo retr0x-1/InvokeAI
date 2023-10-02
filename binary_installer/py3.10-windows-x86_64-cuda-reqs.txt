@@ -1025,7 +1025,7 @@ omegaconf==2.2.3 \
     --hash=sha256:59ff9fba864ffbb5fb710b64e8a9ba37c68fa339a2e2bb4f1b648d6901552523 \
     --hash=sha256:d6f2cbf79a992899eb76c6cb1aedfcf0fe7456a8654382edd5ee0c1b199c0657
     # via taming-transformers-rom1504
-opencv-python==4.6.0.66 \
+opencv-python==4.8.1.78.66 \
     --hash=sha256:0dc82a3d8630c099d2f3ac1b1aabee164e8188db54a786abb7a4e27eba309440 \
     --hash=sha256:5af8ba35a4fcb8913ffb86e92403e9a656a4bff4a645d196987468f0f8947875 \
     --hash=sha256:6e32af22e3202748bd233ed8f538741876191863882eba44e332d1a34993165b \
@@ -1039,7 +1039,7 @@ opencv-python==4.6.0.66 \
     #   facexlib
     #   gfpgan
     #   realesrgan
-opencv-python-headless==4.6.0.66 \
+opencv-python-headless==4.8.1.78.66 \
     --hash=sha256:21e70f8b0c04098cdf466d27184fe6c3820aaef944a22548db95099959c95889 \
     --hash=sha256:2c032c373e447c3fc2a670bca20e2918a1205a6e72854df60425fd3f82c78c32 \
     --hash=sha256:3bacd806cce1f1988e58f3d6f761538e0215d6621d316de94c009dc0acbd6ad3 \
