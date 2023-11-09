@@ -1248,7 +1248,7 @@ psutil==5.9.3 \
     # via
     #   accelerate
     #   wandb
-pyarrow==10.0.0 \
+pyarrow==14.0.1 \
     --hash=sha256:10e031794d019425d34406edffe7e32157359e9455f9edb97a1732f8dabf802f \
     --hash=sha256:25f51dca780fc22cfd7ac30f6bdfe70eb99145aee9acfda987f2c49955d66ed9 \
     --hash=sha256:2d326a9d47ac237d81b8c4337e9d30a0b361835b536fc7ea53991455ce761fbd \
