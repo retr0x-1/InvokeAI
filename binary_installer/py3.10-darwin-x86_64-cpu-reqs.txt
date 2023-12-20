@@ -329,7 +329,7 @@ flaskwebgui==0.3.7 \
     --hash=sha256:4a69955308eaa8bb256ba04a994dc8f58a48dcd6f9599694ab1bcd9f43d88a5d \
     --hash=sha256:535974ce2672dcc74787c254de24cceed4101be75d96952dae82014dd57f061e
     # via -r installer/requirements.in
-fonttools==4.38.0 \
+fonttools==4.43.0 \
     --hash=sha256:2bb244009f9bf3fa100fc3ead6aeb99febe5985fa20afbfbaa2f8946c2fbdaf1 \
     --hash=sha256:820466f43c8be8c3009aef8b87e785014133508f0de64ec469e4efb643ae54fb
     # via matplotlib
