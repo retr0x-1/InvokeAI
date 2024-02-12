@@ -286,7 +286,7 @@ diffusers==0.7.2 \
     --hash=sha256:4a5f8b3a5fbd936bba7d459611cb35ec62875030367be32b232f9e19543e25a9 \
     --hash=sha256:fb814ffd150cc6f470380b8c6a521181a77beb2f44134d2aad2e4cd8aa2ced0e
     # via -r installer/requirements.in
-dnspython==2.2.1 \
+dnspython==2.6.0rc1 \
     --hash=sha256:0f7569a4a6ff151958b64304071d370daa3243d15941a7beedf0c9fe5105603e \
     --hash=sha256:a851e51367fb93e9e1361732c1d60dab63eff98712e503ea7d92e6eccb109b4f
     # via eventlet
