@@ -3,3 +3,4 @@ mkdocs-material>=8, <9
 mkdocs-git-revision-date-localized-plugin
 mkdocs-redirects==1.2.0
 
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
