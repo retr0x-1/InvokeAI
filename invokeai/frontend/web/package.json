@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@chakra-ui/anatomy": "^2.1.1",
-    "@chakra-ui/cli": "^2.3.0",
+    "@chakra-ui/cli": "^2.4.1",
     "@chakra-ui/icons": "^2.0.17",
     "@chakra-ui/react": "^2.5.1",
     "@chakra-ui/styled-system": "^2.6.1",
@@ -53,7 +53,7 @@
     "i18next-http-backend": "^2.1.1",
     "konva": "^8.4.2",
     "lodash": "^4.17.21",
-    "patch-package": "^6.5.1",
+    "patch-package": "^7.0.2",
     "re-resizable": "^6.9.9",
     "react": "^18.2.0",
     "react-colorful": "^5.6.1",
