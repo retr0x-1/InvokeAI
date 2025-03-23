@@ -514,7 +514,7 @@ greenlet==2.0.0.post0 \
     --hash=sha256:eb36b6570646227a63eda03916f1cc6f3744ee96d28f7a0a5629c59267a8055f \
     --hash=sha256:f8c425a130e04d5404edaf6f5906e5ab12f3aa1168a1828aba6dfadac5910469
     # via eventlet
-grpcio==1.50.0 \
+grpcio==1.58.3 \
     --hash=sha256:05f7c248e440f538aaad13eee78ef35f0541e73498dd6f832fe284542ac4b298 \
     --hash=sha256:080b66253f29e1646ac53ef288c12944b131a2829488ac3bac8f52abb4413c0d \
     --hash=sha256:12b479839a5e753580b5e6053571de14006157f2ef9b71f38c56dc9b23b95ad6 \
@@ -1098,7 +1098,7 @@ pandas==1.5.1 \
 pathtools==0.1.2 \
     --hash=sha256:7c35c5421a39bb82e58018febd90e3b6e5db34c5443aaaf742b3f33d4655f1c0
     # via wandb
-picklescan==0.0.5 \
+picklescan==0.0.23 \
     --hash=sha256:368cf1b9a075bc1b6460ad82b694f260532b836c82f99d13846cd36e1bbe7f9a \
     --hash=sha256:57153eca04d5df5009f2cdd595aef261b8a6f27e03046a1c84f672aa6869c592
     # via -r installer/requirements.in
