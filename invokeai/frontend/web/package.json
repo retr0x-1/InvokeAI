@@ -53,7 +53,7 @@
     "i18next-http-backend": "^2.1.1",
     "konva": "^8.4.2",
     "lodash": "^4.17.21",
-    "patch-package": "^6.5.1",
+    "patch-package": "^8.0.1",
     "re-resizable": "^6.9.9",
     "react": "^18.2.0",
     "react-colorful": "^5.6.1",
