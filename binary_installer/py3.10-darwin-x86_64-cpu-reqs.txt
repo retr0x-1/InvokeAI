@@ -301,7 +301,7 @@ facexlib==0.2.5 \
     # via
     #   gfpgan
     #   realesrgan
-filelock==3.8.0 \
+filelock==3.20.1 \
     --hash=sha256:55447caa666f2198c5b6b13a26d2084d26fa5b115c00d065664b2124680c4edc \
     --hash=sha256:617eb4e5eedc82fc5f47b6d61e4d11cb837c56cb4544e39081099fa17ad109d4
     # via
@@ -329,7 +329,7 @@ flaskwebgui==0.3.7 \
     --hash=sha256:4a69955308eaa8bb256ba04a994dc8f58a48dcd6f9599694ab1bcd9f43d88a5d \
     --hash=sha256:535974ce2672dcc74787c254de24cceed4101be75d96952dae82014dd57f061e
     # via -r installer/requirements.in
-fonttools==4.38.0 \
+fonttools==4.61.0 \
     --hash=sha256:2bb244009f9bf3fa100fc3ead6aeb99febe5985fa20afbfbaa2f8946c2fbdaf1 \
     --hash=sha256:820466f43c8be8c3009aef8b87e785014133508f0de64ec469e4efb643ae54fb
     # via matplotlib
@@ -1908,7 +1908,7 @@ torchvision==0.13.0 ; platform_system == "Darwin" \
     #   realesrgan
     #   taming-transformers-rom1504
     #   torch-fidelity
-tornado==6.2 \
+tornado==6.5.3 \
     --hash=sha256:1d54d13ab8414ed44de07efecb97d4ef7c39f7438cf5e976ccd356bebb1b5fca \
     --hash=sha256:20f638fd8cc85f3cbae3c732326e96addff0a15e22d80f049e00121651e82e72 \
     --hash=sha256:5c87076709343557ef8032934ce5f637dbb552efa7b21d08e89ae7619ed0eb23 \
