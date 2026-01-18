@@ -306,7 +306,7 @@ facexlib==0.2.5 \
     # via
     #   gfpgan
     #   realesrgan
-filelock==3.8.0 \
+filelock==3.20.3 \
     --hash=sha256:55447caa666f2198c5b6b13a26d2084d26fa5b115c00d065664b2124680c4edc \
     --hash=sha256:617eb4e5eedc82fc5f47b6d61e4d11cb837c56cb4544e39081099fa17ad109d4
     # via
